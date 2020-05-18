@@ -1,0 +1,22 @@
+.tooltip {
+  position:absolute;
+  width:100px;
+  height:50px;
+  background: black;
+  color: white;
+  border-radius: 10px;
+  pointer-events:none;
+}
+
+.label{
+    position:absolute;
+    text-emphasis: Bold;
+    font-size: 24px;
+    color:black;
+}
+
+.title{
+    color:firebrick;
+    text-align: center;
+    
+}
